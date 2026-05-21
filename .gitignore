@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Build
+Debug/
+Release/
+x64/
+x86/
+
+# SQLite
+*.db
+*.db-journal
+
+# Temp
+*.log
+*.tmp
