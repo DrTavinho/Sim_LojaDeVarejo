@@ -1,6 +1,6 @@
 # Sim_LojaDeVarejo
 
-Um sistema de controle de vendas com relatórios baseado em banco de dados SQL Lite.
+Um sistema de controle de vendas com relatórios baseado em banco de dados SQL Lite. Projeto para a faculdade.
 
 ---
 
