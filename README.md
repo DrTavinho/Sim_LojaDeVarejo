@@ -30,6 +30,7 @@ Um sistema de controle de vendas com relatórios baseado em banco de dados SQL L
 O programa gera os seguintes relatórios:
 
 1) Relatório diário
+
 Uma listagem contendo:
 
 - os pedidos realizados no dia
